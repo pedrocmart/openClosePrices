@@ -35,12 +35,17 @@ Constraints
 weekday will be one of the following: [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]
 
 Sample Input For Custom Testing
+
 1-January-2000 22-February-2000 Monday
 
 Sample Output
 
 17-January-2000 5617.7 5404.07
+
 31-January-2000 5338.67 5205.29
+
 7-February-2000 5431.55 5474
+
 14-February-2000 6130.23 5924.31
+
 21-February-2000 5874.25 5876.89
